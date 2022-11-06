@@ -38,7 +38,7 @@ All great projects start with collaboration. Pull requests are the foundation of
    ![Create a new repository](https://user-images.githubusercontent.com/1221423/169618722-406dc508-add4-4074-83f0-c7a7ad87f6f3.png)
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
-endstep0-->
+endstep1-->
 
 <!--
   <<< Author notes: Step 1 >>>
